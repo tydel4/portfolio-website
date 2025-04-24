@@ -1,6 +1,6 @@
 # Tyler Delorey's Portfolio Website
 
-A modern, responsive portfolio website built with HTML and Tailwind CSS.
+A modern, responsive portfolio website showcasing my skills, projects, and experience as a Computer Science student. Built with HTML and Tailwind CSS, featuring a clean design, smooth navigation, and interactive elements.
 
 ## Features
 
@@ -34,3 +34,7 @@ To customize the website:
 - Email: TylerDDelorey@gmail.com
 - LinkedIn: linkedin.com/in/tyler-delorey
 - GitHub: github.com/tydel4
+
+---
+
+Made with ❤️ using Tailwind CSS and deployed with Vercel
